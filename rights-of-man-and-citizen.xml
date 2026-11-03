@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="rights-of-man-and-citizen.css"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" version="3.1">
+  <act name="declaration" contains="originalVersion">
+    <meta>
+      <identification source="#gvergottini">
+        <FRBRWork>
+          <FRBRthis value="/akn/fr/act/1789-08-26/declaration-droits-homme-citoyen/!main"/>
+          <FRBRuri value="/akn/fr/act/1789-08-26/declaration-droits-homme-citoyen"/>
+          <FRBRalias value="Déclaration des droits de l’homme et du citoyen" name="short"/>
+          <FRBRdate date="1789-08-26" name="adoption"/>
+          <FRBRauthor href="#assemblee" as="#author"/>
+          <FRBRcountry value="fr"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/fr/act/1789-08-26/declaration-droits-homme-citoyen/fra@1789-08-26/!main"/>
+          <FRBRuri value="/akn/fr/act/1789-08-26/declaration-droits-homme-citoyen/fra@1789-08-26"/>
+          <FRBRdate date="1789-08-26" name="adoption"/>
+          <FRBRauthor href="#assemblee" as="#author"/>
+          <FRBRlanguage language="fra"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/fr/act/1789-08-26/declaration-droits-homme-citoyen/fra@1789-08-26/!main.xml"/>
+          <FRBRuri value="/akn/fr/act/1789-08-26/declaration-droits-homme-citoyen/fra@1789-08-26.xml"/>
+          <FRBRdate date="2026-11-03" name="markup"/>
+          <FRBRauthor href="#gvergottini" as="#editor"/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#gvergottini">
+        <TLCOrganization eId="assemblee" href="/ontology/organization/fr.assembleeNationale1789" showAs="Assemblée nationale"/>
+        <TLCPerson eId="gvergottini" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+        <TLCRole eId="author" href="/ontology/role/author" showAs="Author"/>
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="Editor"/>
+      </references>
+    </meta>
+    <preface xml:lang="fra">
+      <p class="kicker">France · <docDate date="1789-08-26">26 août 1789</docDate></p>
+      <p class="title"><docTitle>Déclaration des Droits de l’Homme et du Citoyen</docTitle></p>
+    </preface>
+    <preamble xml:lang="fra">
+      <recitals>
+        <recital eId="rec_1"><p>Les représentants du peuple français, constitués en Assemblée nationale, considérant que l’ignorance, l’oubli ou le mépris des droits de l’homme sont les seules causes des malheurs publics et de la corruption des gouvernements, ont résolu d’exposer, dans une déclaration solennelle, les droits naturels, inaliénables et sacrés de l’homme, afin que cette déclaration, constamment présente à tous les membres du corps social, leur rappelle sans cesse leurs droits et leurs devoirs ; afin que les actes du pouvoir législatif et ceux du pouvoir exécutif, pouvant être à chaque instant comparés avec le but de toute institution politique, en soient plus respectés ; afin que les réclamations des citoyens, fondées désormais sur des principes simples et incontestables, tournent toujours au maintien de la Constitution et au bonheur de tous.</p></recital>
+      </recitals>
+      <formula name="enactingFormula"><p>En conséquence, l’Assemblée nationale reconnaît et déclare, en présence et sous les auspices de l’Être Suprême, les droits suivants de l’homme et du citoyen.</p></formula>
+    </preamble>
+    <body xml:lang="fra">
+      <article eId="art_1">
+        <num>Article premier</num>
+        <content><p><span class="landmark">Les hommes naissent et demeurent libres et égaux en droits.</span> Les distinctions sociales ne peuvent être fondées que sur l’utilité commune.</p></content>
+      </article>
+      <article eId="art_2">
+        <num>Article 2.</num>
+        <content><p>Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l’homme. Ces droits sont la liberté, la propriété, la sûreté et la résistance à l’oppression.</p></content>
+      </article>
+      <article eId="art_3">
+        <num>Article 3.</num>
+        <content><p>Le principe de toute souveraineté réside essentiellement dans la Nation. Nul corps, nul individu ne peut exercer d’autorité qui n’en émane expressément.</p></content>
+      </article>
+      <article eId="art_4">
+        <num>Article 4.</num>
+        <content><p>La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui : ainsi, l’exercice des droits naturels de chaque homme n’a de bornes que celles qui assurent aux autres membres de la société la jouissance de ces mêmes droits. Ces bornes ne peuvent être déterminées que par la loi.</p></content>
+      </article>
+      <article eId="art_5">
+        <num>Article 5.</num>
+        <content><p>La loi n’a le droit de défendre que les actions nuisibles à la société. Tout ce qui n’est pas défendu par la loi ne peut être empêché, et nul ne peut être contraint à faire ce qu’elle n’ordonne pas.</p></content>
+      </article>
+      <article eId="art_6">
+        <num>Article 6.</num>
+        <content><p>La loi est l’expression de la volonté générale. Tous les citoyens ont droit de concourir personnellement ou par leurs représentants à sa formation. Elle doit être la même pour tous, soit qu’elle protège, soit qu’elle punisse. Tous les citoyens, étant égaux à ses yeux, sont également admissibles à toutes dignités, places et emplois publics, selon leur capacité et sans autre distinction que celle de leurs vertus et de leurs talents.</p></content>
+      </article>
+      <article eId="art_7">
+        <num>Article 7.</num>
+        <content><p>Nul homme ne peut être accusé, arrêté ou détenu que dans les cas déterminés par la loi et selon les formes qu’elle a prescrites. Ceux qui sollicitent, expédient, exécutent ou font exécuter des ordres arbitraires doivent être punis ; mais tout citoyen appelé ou saisi en vertu de la loi doit obéir à l’instant ; il se rend coupable par la résistance.</p></content>
+      </article>
+      <article eId="art_8">
+        <num>Article 8.</num>
+        <content><p>La loi ne doit établir que des peines strictement et évidemment nécessaires, et nul ne peut être puni qu’en vertu d’une loi établie et promulguée antérieurement au délit, et légalement appliquée.</p></content>
+      </article>
+      <article eId="art_9">
+        <num>Article 9.</num>
+        <content><p>Tout homme étant présumé innocent jusqu’à ce qu’il ait été déclaré coupable, s’il est jugé indispensable de l’arrêter, toute rigueur qui ne serait pas nécessaire pour s’assurer de sa personne doit être sévèrement réprimée par la loi.</p></content>
+      </article>
+      <article eId="art_10">
+        <num>Article 10.</num>
+        <content><p>Nul ne doit être inquiété pour ses opinions, même religieuses, pourvu que leur manifestation ne trouble pas l’ordre public établi par la loi.</p></content>
+      </article>
+      <article eId="art_11">
+        <num>Article 11.</num>
+        <content><p>La libre communication des pensées et des opinions est un des droits les plus précieux de l’homme ; tout citoyen peut donc parler, écrire, imprimer librement, sauf à répondre de l’abus de cette liberté dans les cas déterminés par la loi.</p></content>
+      </article>
+      <article eId="art_12">
+        <num>Article 12.</num>
+        <content><p>La garantie des droits de l’homme et du citoyen nécessite une force publique ; cette force est donc instituée pour l’avantage de tous, et non pour l’utilité particulière de ceux à qui elle est confiée.</p></content>
+      </article>
+      <article eId="art_13">
+        <num>Article 13.</num>
+        <content><p>Pour l’entretien de la force publique, et pour les dépenses d’administration, une contribution commune est indispensable ; elle doit être également répartie entre les citoyens, en raison de leurs facultés.</p></content>
+      </article>
+      <article eId="art_14">
+        <num>Article 14.</num>
+        <content><p>Les citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d’en suivre l’emploi, et d’en déterminer la quotité, l’assiette, le recouvrement et la durée.</p></content>
+      </article>
+      <article eId="art_15">
+        <num>Article 15.</num>
+        <content><p>La société a le droit de demander compte à tout agent public de son administration.</p></content>
+      </article>
+      <article eId="art_16">
+        <num>Article 16.</num>
+        <content><p>Toute société dans laquelle la garantie des droits n’est pas assurée ni la séparation des pouvoirs déterminée, n’a point de Constitution.</p></content>
+      </article>
+      <article eId="art_17">
+        <num>Article 17.</num>
+        <content><p>La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n’est lorsque la nécessité publique, légalement constatée, l’exige évidemment, et sous la condition d’une juste et préalable indemnité.</p></content>
+      </article>
+    </body>
+    <attachments>
+      <attachment eId="att_english">
+        <heading>English translation</heading>
+        <doc name="translation" contains="originalVersion">
+          <meta>
+      <identification source="#gvergottini_en">
+        <FRBRWork>
+          <FRBRthis value="/akn/fr/act/1789-08-26/declaration-droits-homme-citoyen/!main"/>
+          <FRBRuri value="/akn/fr/act/1789-08-26/declaration-droits-homme-citoyen"/>
+          <FRBRalias value="Declaration of the Rights of Man and of the Citizen" name="short"/>
+          <FRBRdate date="1789-08-26" name="adoption"/>
+          <FRBRauthor href="#assemblee_en" as="#author_en"/>
+          <FRBRcountry value="fr"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/fr/act/1789-08-26/declaration-droits-homme-citoyen/eng@1789-08-26/!main"/>
+          <FRBRuri value="/akn/fr/act/1789-08-26/declaration-droits-homme-citoyen/eng@1789-08-26"/>
+          <FRBRdate date="1789-08-26" name="adoption"/>
+          <FRBRauthor href="#assemblee_en" as="#author_en"/>
+          <FRBRlanguage language="eng"/>
+          <FRBRtranslation href="/akn/fr/act/1789-08-26/declaration-droits-homme-citoyen/fra@1789-08-26" fromLanguage="fra" by="#avalon_en"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/fr/act/1789-08-26/declaration-droits-homme-citoyen/eng@1789-08-26/!main.xml"/>
+          <FRBRuri value="/akn/fr/act/1789-08-26/declaration-droits-homme-citoyen/eng@1789-08-26.xml"/>
+          <FRBRdate date="2026-11-03" name="markup"/>
+          <FRBRauthor href="#gvergottini_en" as="#editor_en"/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#gvergottini_en">
+        <TLCOrganization eId="assemblee_en" href="/ontology/organization/fr.assembleeNationale1789" showAs="National Assembly of France"/>
+        <TLCOrganization eId="avalon_en" href="/ontology/organization/us.avalonProject" showAs="Avalon Project, Yale Law School (publisher of the translation)"/>
+        <TLCPerson eId="gvergottini_en" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+        <TLCRole eId="author_en" href="/ontology/role/author" showAs="Author"/>
+        <TLCRole eId="editor_en" href="/ontology/role/editor" showAs="Editor"/>
+      </references>
+          </meta>
+          <preamble>
+            <p>The representatives of the French people, organized as a National Assembly, believing that the ignorance, neglect, or contempt of the rights of man are the sole cause of public calamities and of the corruption of governments, have determined to set forth in a solemn declaration the natural, unalienable, and sacred rights of man, in order that this declaration, being constantly before all the members of the Social body, shall remind them continually of their rights and duties; in order that the acts of the legislative power, as well as those of the executive power, may be compared at any moment with the objects and purposes of all political institutions and may thus be more respected, and, lastly, in order that the grievances of the citizens, based hereafter upon simple and incontestable principles, shall tend to the maintenance of the constitution and redound to the happiness of all.</p>
+            <p>Therefore the National Assembly recognizes and proclaims, in the presence and under the auspices of the Supreme Being, the following rights of man and of the citizen:</p>
+          </preamble>
+          <mainBody>
+            <article eId="att_english__art_1">
+              <num>1.</num>
+              <content><p>Men are born and remain free and equal in rights. Social distinctions may be founded only upon the general good.</p></content>
+            </article>
+            <article eId="att_english__art_2">
+              <num>2.</num>
+              <content><p>The aim of all political association is the preservation of the natural and imprescriptible rights of man. These rights are liberty, property, security, and resistance to oppression.</p></content>
+            </article>
+            <article eId="att_english__art_3">
+              <num>3.</num>
+              <content><p>The principle of all sovereignty resides essentially in the nation. No body nor individual may exercise any authority which does not proceed directly from the nation.</p></content>
+            </article>
+            <article eId="att_english__art_4">
+              <num>4.</num>
+              <content><p>Liberty consists in the freedom to do everything which injures no one else; hence the exercise of the natural rights of each man has no limits except those which assure to the other members of the society the enjoyment of the same rights. These limits can only be determined by law.</p></content>
+            </article>
+            <article eId="att_english__art_5">
+              <num>5.</num>
+              <content><p>Law can only prohibit such actions as are hurtful to society. Nothing may be prevented which is not forbidden by law, and no one may be forced to do anything not provided for by law.</p></content>
+            </article>
+            <article eId="att_english__art_6">
+              <num>6.</num>
+              <content><p>Law is the expression of the general will. Every citizen has a right to participate personally, or through his representative, in its foundation. It must be the same for all, whether it protects or punishes. All citizens, being equal in the eyes of the law, are equally eligible to all dignities and to all public positions and occupations, according to their abilities, and without distinction except that of their virtues and talents.</p></content>
+            </article>
+            <article eId="att_english__art_7">
+              <num>7.</num>
+              <content><p>No person shall be accused, arrested, or imprisoned except in the cases and according to the forms prescribed by law. Any one soliciting, transmitting, executing, or causing to be executed, any arbitrary order, shall be punished. But any citizen summoned or arrested in virtue of the law shall submit without delay, as resistance constitutes an offense.</p></content>
+            </article>
+            <article eId="att_english__art_8">
+              <num>8.</num>
+              <content><p>The law shall provide for such punishments only as are strictly and obviously necessary, and no one shall suffer punishment except it be legally inflicted in virtue of a law passed and promulgated before the commission of the offense.</p></content>
+            </article>
+            <article eId="att_english__art_9">
+              <num>9.</num>
+              <content><p>As all persons are held innocent until they shall have been declared guilty, if arrest shall be deemed indispensable, all harshness not essential to the securing of the prisoner’s person shall be severely repressed by law.</p></content>
+            </article>
+            <article eId="att_english__art_10">
+              <num>10.</num>
+              <content><p>No one shall be disquieted on account of his opinions, including his religious views, provided their manifestation does not disturb the public order established by law.</p></content>
+            </article>
+            <article eId="att_english__art_11">
+              <num>11.</num>
+              <content><p>The free communication of ideas and opinions is one of the most precious of the rights of man. Every citizen may, accordingly, speak, write, and print with freedom, but shall be responsible for such abuses of this freedom as shall be defined by law.</p></content>
+            </article>
+            <article eId="att_english__art_12">
+              <num>12.</num>
+              <content><p>The security of the rights of man and of the citizen requires public military forces. These forces are, therefore, established for the good of all and not for the personal advantage of those to whom they shall be intrusted.</p></content>
+            </article>
+            <article eId="att_english__art_13">
+              <num>13.</num>
+              <content><p>A common contribution is essential for the maintenance of the public forces and for the cost of administration. This should be equitably distributed among all the citizens in proportion to their means.</p></content>
+            </article>
+            <article eId="att_english__art_14">
+              <num>14.</num>
+              <content><p>All the citizens have a right to decide, either personally or by their representatives, as to the necessity of the public contribution; to grant this freely; to know to what uses it is put; and to fix the proportion, the mode of assessment and of collection and the duration of the taxes.</p></content>
+            </article>
+            <article eId="att_english__art_15">
+              <num>15.</num>
+              <content><p>Society has the right to require of every public agent an account of his administration.</p></content>
+            </article>
+            <article eId="att_english__art_16">
+              <num>16.</num>
+              <content><p>A society in which the observance of the law is not assured, nor the separation of powers defined, has no constitution at all.</p></content>
+            </article>
+            <article eId="att_english__art_17">
+              <num>17.</num>
+              <content><p>Since property is an inviolable and sacred right, no one shall be deprived thereof except where public necessity, legally determined, shall clearly demand it, and then only on condition that the owner shall have been previously and equitably indemnified.</p></content>
+            </article>
+          </mainBody>
+        </doc>
+      </attachment>
+    </attachments>
+  </act>
+</akomaNtoso>
