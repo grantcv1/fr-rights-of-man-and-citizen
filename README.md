@@ -19,7 +19,8 @@ To view the document locally, keep the XML and CSS files in the same folder and 
 - **Document type:** The Declaration is an `<act name="declaration">`, because it remains part of French constitutional law. It is marked as an act here even though the U.S. Declaration of Independence in this archive is a `<statement>`.
 - **Structure:** The considerations are a `<recital>` in `<preamble>`, followed by the enacting words in `<formula name="enactingFormula">`. The 17 articles are `<article>` elements in `<body>`, each with its number in `<num>`.
 - **English translation:** The translation is a `<doc name="translation">` in an `<attachment>`, with its own metadata. `FRBRtranslation` links it to the French expression, and its article eIds use the same numbers with an `att_english__` prefix.
-- **Typography:** Straight apostrophes are set as typographic ones, and French spaces before ";" and ":" are non-breaking.
+- **Text:** Both texts are verbatim, including their straight apostrophes and spacing.
+- **Identifiers:** Every element with an `eId` also has a `GUID`. Text-level `<p>` elements have neither.
 - **Highlight:** The first sentence of Article 1 is in `<span class="landmark">`. The highlighting is editorial.
 - **Jurisdiction:** The URIs use `fr`.
 

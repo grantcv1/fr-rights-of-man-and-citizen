@@ -28,10 +28,10 @@
         </FRBRManifestation>
       </identification>
       <references source="#gvergottini">
-        <TLCOrganization eId="assemblee" href="/ontology/organization/fr.assembleeNationale1789" showAs="Assemblée nationale"/>
-        <TLCPerson eId="gvergottini" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
-        <TLCRole eId="author" href="/ontology/role/author" showAs="Author"/>
-        <TLCRole eId="editor" href="/ontology/role/editor" showAs="Editor"/>
+        <TLCOrganization eId="assemblee" GUID="FC782175-F768-4BEB-8B55-886DA5BF69DA" href="/ontology/organization/fr.assembleeNationale1789" showAs="Assemblée nationale"/>
+        <TLCPerson eId="gvergottini" GUID="187DDB90-4629-4A84-BFF4-A210D9AA4DA8" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+        <TLCRole eId="author" GUID="DAAF3CA3-40F8-40DD-A5D1-BF6109C55C8D" href="/ontology/role/author" showAs="Author"/>
+        <TLCRole eId="editor" GUID="7872E74C-34ED-434F-B62B-279CAE8430B5" href="/ontology/role/editor" showAs="Editor"/>
       </references>
     </meta>
     <preface xml:lang="fra">
@@ -40,82 +40,82 @@
     </preface>
     <preamble xml:lang="fra">
       <recitals>
-        <recital eId="rec_1"><p>Les représentants du peuple français, constitués en Assemblée nationale, considérant que l’ignorance, l’oubli ou le mépris des droits de l’homme sont les seules causes des malheurs publics et de la corruption des gouvernements, ont résolu d’exposer, dans une déclaration solennelle, les droits naturels, inaliénables et sacrés de l’homme, afin que cette déclaration, constamment présente à tous les membres du corps social, leur rappelle sans cesse leurs droits et leurs devoirs ; afin que les actes du pouvoir législatif et ceux du pouvoir exécutif, pouvant être à chaque instant comparés avec le but de toute institution politique, en soient plus respectés ; afin que les réclamations des citoyens, fondées désormais sur des principes simples et incontestables, tournent toujours au maintien de la Constitution et au bonheur de tous.</p></recital>
+        <recital eId="rec_1" GUID="7168B18A-454D-477F-8E34-9D7C70AF3E79"><p>Les représentants du peuple français, constitués en Assemblée nationale, considérant que l'ignorance, l'oubli ou le mépris des droits de l'homme sont les seules causes des malheurs publics et de la corruption des gouvernements, ont résolu d'exposer, dans une déclaration solennelle, les droits naturels, inaliénables et sacrés de l'homme, afin que cette déclaration, constamment présente à tous les membres du corps social, leur rappelle sans cesse leurs droits et leurs devoirs ; afin que les actes du pouvoir législatif et ceux du pouvoir exécutif, pouvant être à chaque instant comparés avec le but de toute institution politique, en soient plus respectés ; afin que les réclamations des citoyens, fondées désormais sur des principes simples et incontestables, tournent toujours au maintien de la Constitution et au bonheur de tous.</p></recital>
       </recitals>
-      <formula name="enactingFormula"><p>En conséquence, l’Assemblée nationale reconnaît et déclare, en présence et sous les auspices de l’Être Suprême, les droits suivants de l’homme et du citoyen.</p></formula>
+      <formula name="enactingFormula"><p>En conséquence, l'Assemblée nationale reconnaît et déclare, en présence et sous les auspices de l'Être Suprême, les droits suivants de l'homme et du citoyen.</p></formula>
     </preamble>
     <body xml:lang="fra">
-      <article eId="art_1">
+      <article eId="art_1" GUID="30DF2408-8ADA-4638-9B4E-AF8043D85CEE">
         <num>Article premier</num>
-        <content><p><span class="landmark">Les hommes naissent et demeurent libres et égaux en droits.</span> Les distinctions sociales ne peuvent être fondées que sur l’utilité commune.</p></content>
+        <content><p><span class="landmark">Les hommes naissent et demeurent libres et égaux en droits.</span> Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.</p></content>
       </article>
-      <article eId="art_2">
+      <article eId="art_2" GUID="EA805978-2D0A-4C5C-A5B1-AF5DDB077D97">
         <num>Article 2.</num>
-        <content><p>Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l’homme. Ces droits sont la liberté, la propriété, la sûreté et la résistance à l’oppression.</p></content>
+        <content><p>Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'homme. Ces droits sont la liberté, la propriété, la sûreté et la résistance à l'oppression.</p></content>
       </article>
-      <article eId="art_3">
+      <article eId="art_3" GUID="BC09B1DB-921A-47B6-90D8-CAC8D44796E9">
         <num>Article 3.</num>
-        <content><p>Le principe de toute souveraineté réside essentiellement dans la Nation. Nul corps, nul individu ne peut exercer d’autorité qui n’en émane expressément.</p></content>
+        <content><p>Le principe de toute souveraineté réside essentiellement dans la Nation. Nul corps, nul individu ne peut exercer d'autorité qui n'en émane expressément.</p></content>
       </article>
-      <article eId="art_4">
+      <article eId="art_4" GUID="CACC9442-043C-4FA6-89E5-1B6BD07C8EB2">
         <num>Article 4.</num>
-        <content><p>La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui : ainsi, l’exercice des droits naturels de chaque homme n’a de bornes que celles qui assurent aux autres membres de la société la jouissance de ces mêmes droits. Ces bornes ne peuvent être déterminées que par la loi.</p></content>
+        <content><p>La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui : ainsi, l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres membres de la société la jouissance de ces mêmes droits. Ces bornes ne peuvent être déterminées que par la loi.</p></content>
       </article>
-      <article eId="art_5">
+      <article eId="art_5" GUID="AB3D552E-565D-4DED-AB37-EF17D5EBD00F">
         <num>Article 5.</num>
-        <content><p>La loi n’a le droit de défendre que les actions nuisibles à la société. Tout ce qui n’est pas défendu par la loi ne peut être empêché, et nul ne peut être contraint à faire ce qu’elle n’ordonne pas.</p></content>
+        <content><p>La loi n'a le droit de défendre que les actions nuisibles à la société. Tout ce qui n'est pas défendu par la loi ne peut être empêché, et nul ne peut être contraint à faire ce qu'elle n'ordonne pas.</p></content>
       </article>
-      <article eId="art_6">
+      <article eId="art_6" GUID="91103400-CDAE-4006-AD43-A7DAFFA9E570">
         <num>Article 6.</num>
-        <content><p>La loi est l’expression de la volonté générale. Tous les citoyens ont droit de concourir personnellement ou par leurs représentants à sa formation. Elle doit être la même pour tous, soit qu’elle protège, soit qu’elle punisse. Tous les citoyens, étant égaux à ses yeux, sont également admissibles à toutes dignités, places et emplois publics, selon leur capacité et sans autre distinction que celle de leurs vertus et de leurs talents.</p></content>
+        <content><p>La loi est l'expression de la volonté générale. Tous les citoyens ont droit de concourir personnellement ou par leurs représentants à sa formation. Elle doit être la même pour tous, soit qu'elle protège, soit qu'elle punisse. Tous les citoyens, étant égaux à ses yeux, sont également admissibles à toutes dignités, places et emplois publics, selon leur capacité et sans autre distinction que celle de leurs vertus et de leurs talents.</p></content>
       </article>
-      <article eId="art_7">
+      <article eId="art_7" GUID="5EB42FA0-CF6D-43AC-BFBC-FC0DB669FA9C">
         <num>Article 7.</num>
-        <content><p>Nul homme ne peut être accusé, arrêté ou détenu que dans les cas déterminés par la loi et selon les formes qu’elle a prescrites. Ceux qui sollicitent, expédient, exécutent ou font exécuter des ordres arbitraires doivent être punis ; mais tout citoyen appelé ou saisi en vertu de la loi doit obéir à l’instant ; il se rend coupable par la résistance.</p></content>
+        <content><p>Nul homme ne peut être accusé, arrêté ou détenu que dans les cas déterminés par la loi et selon les formes qu'elle a prescrites. Ceux qui sollicitent, expédient, exécutent ou font exécuter des ordres arbitraires doivent être punis ; mais tout citoyen appelé ou saisi en vertu de la loi doit obéir à l'instant ; il se rend coupable par la résistance.</p></content>
       </article>
-      <article eId="art_8">
+      <article eId="art_8" GUID="56AE44D0-F850-4899-A3AA-251347F4BDC8">
         <num>Article 8.</num>
-        <content><p>La loi ne doit établir que des peines strictement et évidemment nécessaires, et nul ne peut être puni qu’en vertu d’une loi établie et promulguée antérieurement au délit, et légalement appliquée.</p></content>
+        <content><p>La loi ne doit établir que des peines strictement et évidemment nécessaires, et nul ne peut être puni qu'en vertu d'une loi établie et promulguée antérieurement au délit, et légalement appliquée.</p></content>
       </article>
-      <article eId="art_9">
+      <article eId="art_9" GUID="49E390CA-8EAB-4F85-950A-FD7F2DCABC6C">
         <num>Article 9.</num>
-        <content><p>Tout homme étant présumé innocent jusqu’à ce qu’il ait été déclaré coupable, s’il est jugé indispensable de l’arrêter, toute rigueur qui ne serait pas nécessaire pour s’assurer de sa personne doit être sévèrement réprimée par la loi.</p></content>
+        <content><p>Tout homme étant présumé innocent jusqu'à ce qu'il ait été déclaré coupable, s'il est jugé indispensable de l'arrêter, toute rigueur qui ne serait pas nécessaire pour s'assurer de sa personne doit être sévèrement réprimée par la loi.</p></content>
       </article>
-      <article eId="art_10">
+      <article eId="art_10" GUID="4802A9B0-CB52-4BC6-8BAD-F5D6A6041AEC">
         <num>Article 10.</num>
-        <content><p>Nul ne doit être inquiété pour ses opinions, même religieuses, pourvu que leur manifestation ne trouble pas l’ordre public établi par la loi.</p></content>
+        <content><p>Nul ne doit être inquiété pour ses opinions, même religieuses, pourvu que leur manifestation ne trouble pas l'ordre public établi par la loi.</p></content>
       </article>
-      <article eId="art_11">
+      <article eId="art_11" GUID="9C294A25-F586-4742-BABE-8ED597D876E8">
         <num>Article 11.</num>
-        <content><p>La libre communication des pensées et des opinions est un des droits les plus précieux de l’homme ; tout citoyen peut donc parler, écrire, imprimer librement, sauf à répondre de l’abus de cette liberté dans les cas déterminés par la loi.</p></content>
+        <content><p>La libre communication des pensées et des opinions est un des droits les plus précieux de l'homme ; tout citoyen peut donc parler, écrire, imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas déterminés par la loi.</p></content>
       </article>
-      <article eId="art_12">
+      <article eId="art_12" GUID="E6DCB77F-4BD3-42D7-A8B0-A9443240715D">
         <num>Article 12.</num>
-        <content><p>La garantie des droits de l’homme et du citoyen nécessite une force publique ; cette force est donc instituée pour l’avantage de tous, et non pour l’utilité particulière de ceux à qui elle est confiée.</p></content>
+        <content><p>La garantie des droits de l'homme et du citoyen nécessite une force publique ; cette force est donc instituée pour l'avantage de tous, et non pour l'utilité particulière de ceux à qui elle est confiée.</p></content>
       </article>
-      <article eId="art_13">
+      <article eId="art_13" GUID="F07727D8-D15B-413E-B8D9-95BC4096C0F4">
         <num>Article 13.</num>
-        <content><p>Pour l’entretien de la force publique, et pour les dépenses d’administration, une contribution commune est indispensable ; elle doit être également répartie entre les citoyens, en raison de leurs facultés.</p></content>
+        <content><p>Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable ; elle doit être également répartie entre les citoyens, en raison de leurs facultés.</p></content>
       </article>
-      <article eId="art_14">
+      <article eId="art_14" GUID="6B8488C8-6C47-4376-ADCB-AD40705F66F0">
         <num>Article 14.</num>
-        <content><p>Les citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d’en suivre l’emploi, et d’en déterminer la quotité, l’assiette, le recouvrement et la durée.</p></content>
+        <content><p>Les citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d'en suivre l'emploi, et d'en déterminer la quotité, l'assiette, le recouvrement et la durée.</p></content>
       </article>
-      <article eId="art_15">
+      <article eId="art_15" GUID="755AFC36-8DF7-4BCC-92F4-AA9DF05BD40B">
         <num>Article 15.</num>
         <content><p>La société a le droit de demander compte à tout agent public de son administration.</p></content>
       </article>
-      <article eId="art_16">
+      <article eId="art_16" GUID="0648880A-DBEE-41D0-ADBD-FEFB401AEE42">
         <num>Article 16.</num>
-        <content><p>Toute société dans laquelle la garantie des droits n’est pas assurée ni la séparation des pouvoirs déterminée, n’a point de Constitution.</p></content>
+        <content><p>Toute société dans laquelle la garantie des droits n'est pas assurée ni la séparation des pouvoirs déterminée, n'a point de Constitution.</p></content>
       </article>
-      <article eId="art_17">
+      <article eId="art_17" GUID="B1287D1B-3E78-465C-893C-33B95C9581BC">
         <num>Article 17.</num>
-        <content><p>La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n’est lorsque la nécessité publique, légalement constatée, l’exige évidemment, et sous la condition d’une juste et préalable indemnité.</p></content>
+        <content><p>La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.</p></content>
       </article>
     </body>
     <attachments>
-      <attachment eId="att_english">
+      <attachment eId="att_english" GUID="D4833DDE-961B-467F-867E-643083037ED3">
         <heading>English translation</heading>
         <doc name="translation" contains="originalVersion">
           <meta>
@@ -145,11 +145,11 @@
         </FRBRManifestation>
       </identification>
       <references source="#gvergottini_en">
-        <TLCOrganization eId="assemblee_en" href="/ontology/organization/fr.assembleeNationale1789" showAs="National Assembly of France"/>
-        <TLCOrganization eId="avalon_en" href="/ontology/organization/us.avalonProject" showAs="Avalon Project, Yale Law School (publisher of the translation)"/>
-        <TLCPerson eId="gvergottini_en" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
-        <TLCRole eId="author_en" href="/ontology/role/author" showAs="Author"/>
-        <TLCRole eId="editor_en" href="/ontology/role/editor" showAs="Editor"/>
+        <TLCOrganization eId="assemblee_en" GUID="1BA95447-8A5F-46AF-8E6A-A38078BDDE73" href="/ontology/organization/fr.assembleeNationale1789" showAs="National Assembly of France"/>
+        <TLCOrganization eId="avalon_en" GUID="F2219C82-6935-40B2-8C58-733031397DA9" href="/ontology/organization/us.avalonProject" showAs="Avalon Project, Yale Law School (publisher of the translation)"/>
+        <TLCPerson eId="gvergottini_en" GUID="B08BF01D-5A18-4308-A60F-CD369B012C5D" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+        <TLCRole eId="author_en" GUID="349141D1-ECC3-4EEC-8C42-477ECB0DEADF" href="/ontology/role/author" showAs="Author"/>
+        <TLCRole eId="editor_en" GUID="5BF1CD03-6BA6-4DD2-B3F1-2C0B963C6360" href="/ontology/role/editor" showAs="Editor"/>
       </references>
           </meta>
           <preamble>
@@ -157,71 +157,71 @@
             <p>Therefore the National Assembly recognizes and proclaims, in the presence and under the auspices of the Supreme Being, the following rights of man and of the citizen:</p>
           </preamble>
           <mainBody>
-            <article eId="att_english__art_1">
+            <article eId="att_english__art_1" GUID="B06AA2E6-6054-471A-832E-2204D33F1F55">
               <num>1.</num>
               <content><p>Men are born and remain free and equal in rights. Social distinctions may be founded only upon the general good.</p></content>
             </article>
-            <article eId="att_english__art_2">
+            <article eId="att_english__art_2" GUID="B29E75C1-5857-4ACD-B799-1F192B8B7F36">
               <num>2.</num>
               <content><p>The aim of all political association is the preservation of the natural and imprescriptible rights of man. These rights are liberty, property, security, and resistance to oppression.</p></content>
             </article>
-            <article eId="att_english__art_3">
+            <article eId="att_english__art_3" GUID="A3F27072-4EF3-4D15-B0F4-CA3ADA67ABF6">
               <num>3.</num>
               <content><p>The principle of all sovereignty resides essentially in the nation. No body nor individual may exercise any authority which does not proceed directly from the nation.</p></content>
             </article>
-            <article eId="att_english__art_4">
+            <article eId="att_english__art_4" GUID="C049A858-70F7-46DF-9810-47C70C313013">
               <num>4.</num>
               <content><p>Liberty consists in the freedom to do everything which injures no one else; hence the exercise of the natural rights of each man has no limits except those which assure to the other members of the society the enjoyment of the same rights. These limits can only be determined by law.</p></content>
             </article>
-            <article eId="att_english__art_5">
+            <article eId="att_english__art_5" GUID="6F295B4C-D347-4DE4-83E0-77086B23897F">
               <num>5.</num>
               <content><p>Law can only prohibit such actions as are hurtful to society. Nothing may be prevented which is not forbidden by law, and no one may be forced to do anything not provided for by law.</p></content>
             </article>
-            <article eId="att_english__art_6">
+            <article eId="att_english__art_6" GUID="AF0A1E5E-1815-498C-9CF9-77379E9E3072">
               <num>6.</num>
               <content><p>Law is the expression of the general will. Every citizen has a right to participate personally, or through his representative, in its foundation. It must be the same for all, whether it protects or punishes. All citizens, being equal in the eyes of the law, are equally eligible to all dignities and to all public positions and occupations, according to their abilities, and without distinction except that of their virtues and talents.</p></content>
             </article>
-            <article eId="att_english__art_7">
+            <article eId="att_english__art_7" GUID="9B2840A9-1F83-4419-8C04-DBF776E22608">
               <num>7.</num>
               <content><p>No person shall be accused, arrested, or imprisoned except in the cases and according to the forms prescribed by law. Any one soliciting, transmitting, executing, or causing to be executed, any arbitrary order, shall be punished. But any citizen summoned or arrested in virtue of the law shall submit without delay, as resistance constitutes an offense.</p></content>
             </article>
-            <article eId="att_english__art_8">
+            <article eId="att_english__art_8" GUID="F7BF6B7D-0695-41FB-B724-B4078AE1CA56">
               <num>8.</num>
               <content><p>The law shall provide for such punishments only as are strictly and obviously necessary, and no one shall suffer punishment except it be legally inflicted in virtue of a law passed and promulgated before the commission of the offense.</p></content>
             </article>
-            <article eId="att_english__art_9">
+            <article eId="att_english__art_9" GUID="E3BDC96F-EAB4-47DA-8BAF-048974B29811">
               <num>9.</num>
-              <content><p>As all persons are held innocent until they shall have been declared guilty, if arrest shall be deemed indispensable, all harshness not essential to the securing of the prisoner’s person shall be severely repressed by law.</p></content>
+              <content><p>As all persons are held innocent until they shall have been declared guilty, if arrest shall be deemed indispensable, all harshness not essential to the securing of the prisoner's person shall be severely repressed by law.</p></content>
             </article>
-            <article eId="att_english__art_10">
+            <article eId="att_english__art_10" GUID="806DA43E-8CD4-4B58-A9B8-1D24097343C1">
               <num>10.</num>
               <content><p>No one shall be disquieted on account of his opinions, including his religious views, provided their manifestation does not disturb the public order established by law.</p></content>
             </article>
-            <article eId="att_english__art_11">
+            <article eId="att_english__art_11" GUID="14E8FD9E-3A30-4160-B173-E006E1B6538A">
               <num>11.</num>
               <content><p>The free communication of ideas and opinions is one of the most precious of the rights of man. Every citizen may, accordingly, speak, write, and print with freedom, but shall be responsible for such abuses of this freedom as shall be defined by law.</p></content>
             </article>
-            <article eId="att_english__art_12">
+            <article eId="att_english__art_12" GUID="C426299E-5409-4820-951C-D045E9F56CC0">
               <num>12.</num>
               <content><p>The security of the rights of man and of the citizen requires public military forces. These forces are, therefore, established for the good of all and not for the personal advantage of those to whom they shall be intrusted.</p></content>
             </article>
-            <article eId="att_english__art_13">
+            <article eId="att_english__art_13" GUID="045A11BC-A5CF-4C32-8122-3516CE9A5CD3">
               <num>13.</num>
               <content><p>A common contribution is essential for the maintenance of the public forces and for the cost of administration. This should be equitably distributed among all the citizens in proportion to their means.</p></content>
             </article>
-            <article eId="att_english__art_14">
+            <article eId="att_english__art_14" GUID="7357E9F2-07F0-452A-8C83-0E682D5B22BB">
               <num>14.</num>
               <content><p>All the citizens have a right to decide, either personally or by their representatives, as to the necessity of the public contribution; to grant this freely; to know to what uses it is put; and to fix the proportion, the mode of assessment and of collection and the duration of the taxes.</p></content>
             </article>
-            <article eId="att_english__art_15">
+            <article eId="att_english__art_15" GUID="CCD4501E-83B7-4A70-B3E6-A2B3A0B6595A">
               <num>15.</num>
               <content><p>Society has the right to require of every public agent an account of his administration.</p></content>
             </article>
-            <article eId="att_english__art_16">
+            <article eId="att_english__art_16" GUID="9E74DC37-635E-4EF9-9B66-5FEBDEDAB34F">
               <num>16.</num>
               <content><p>A society in which the observance of the law is not assured, nor the separation of powers defined, has no constitution at all.</p></content>
             </article>
-            <article eId="att_english__art_17">
+            <article eId="att_english__art_17" GUID="EFED6FC1-8951-423E-AACE-D79E15FD6752">
               <num>17.</num>
               <content><p>Since property is an inviolable and sacred right, no one shall be deprived thereof except where public necessity, legally determined, shall clearly demand it, and then only on condition that the owner shall have been previously and equitably indemnified.</p></content>
             </article>
