@@ -32,3 +32,13 @@ To view the document locally, keep the XML and CSS files in the same folder and 
 ## Fonts
 
 The stylesheet embeds Libre Bodoni, licensed under the [SIL Open Font License](https://openfontlicense.org/). The rendering evokes the period; it does not reproduce any original.
+
+## License
+
+The Akoma Ntoso markup, stylesheet rules, scripts and landing page are under the MIT License in `LICENSE`. That license does not cover the items below, which keep their own terms.
+
+- **Text:** The French text of 1789 is believed to be in the public domain. The English translation comes from the Avalon Project, which does not name the translator, so its status is unconfirmed.
+- **Images:** None.
+- **Fonts:** Libre Bodoni, under the licenses in `FONT-LICENSES.md`.
+
+This is an unofficial copy, not an official version of the text.
